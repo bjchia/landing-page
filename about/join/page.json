@@ -1,0 +1,11 @@
+{
+  "name": "Join",
+  "path": "join",
+  "menu": "landing",
+  "theme": "Pavilion Landing Theme",
+  "groups": [],
+  "assets": [
+    "join",
+    "contact"
+  ]
+}
